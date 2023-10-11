@@ -8,7 +8,6 @@ from sklearn.ensemble import RandomForestRegressor, ExtraTreesRegressor
 
 wine = pd.read_csv('https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv', sep = ';')
 
-print(wine.columns)
 # train/test split the features and response column
 y = wine['quality'].values
 X = wine.drop('quality', axis = 1).values

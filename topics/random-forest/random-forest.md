@@ -9,11 +9,11 @@
 
 - <b> Project 1 </b>
 
-Predict wine quality [project](https://nbviewer.org/github/ethen8181/machine-learning/blob/master/trees/random_forest.ipynb#Implementation) using random forest. This is a really good read from top to Implementation for beginner. 
-- The project has tree, random forest with all features, random forest with one third of the features at every split, and more. If you want to just do random forest (one third of the features at every split), I am posting a question and solution here (coming soon a new readme here).
+Predict wine quality using random forest. See [project requirements](wine-quality.md).
+
+&emsp; <i>Project [source](https://nbviewer.org/github/ethen8181/machine-learning/blob/master/trees/random_forest.ipynb#Implementation). This is a really good read from top to implementation for a beginner.</i>
 
 &emsp; <i>Source: Github repo of [Ethen](https://github.com/ethen8181)</i>
-
 
 
 <b> Project 2 </b>

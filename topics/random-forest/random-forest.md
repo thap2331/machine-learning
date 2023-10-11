@@ -7,7 +7,7 @@
 
 ## Projects
 
-- <b> Project 1 </b>
+<b> Project 1 </b>
 
 Predict wine quality using random forest. See [project requirements](wine-quality.md).
 
@@ -15,6 +15,8 @@ Predict wine quality using random forest. See [project requirements](wine-qualit
 
 &emsp; <i>Source: Github repo of [Ethen](https://github.com/ethen8181)</i>
 
+<br>
+<br>
 
 <b> Project 2 </b>
 

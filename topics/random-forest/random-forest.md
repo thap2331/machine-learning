@@ -12,10 +12,6 @@
 
 Predict wine quality using random forest. See [project requirements](project-wine-quality.md).
 
-&emsp; <i>Project [source](https://nbviewer.org/github/ethen8181/machine-learning/blob/master/trees/random_forest.ipynb#Implementation). This is a really good read from top to implementation for a beginner.</i>
-
-&emsp; <i>Source: Github repo of [Ethen](https://github.com/ethen8181)</i>
-
 <br>
 <br>
 

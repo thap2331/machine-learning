@@ -4,4 +4,8 @@
 # Solution
 [python code](./wine-quality-random-forest.py)
 
+<i>Project [source](https://nbviewer.org/github/ethen8181/machine-learning/blob/master/trees/random_forest.ipynb#Implementation). This is a really good read from top to implementation for a beginner.</i>
+
+<i>Source: Github repo of [Ethen](https://github.com/ethen8181)</i>
+
 <i>Source: Github repo of [Ethen](https://github.com/ethen8181)</i>

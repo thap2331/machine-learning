@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 
+from sklearn import metrics
 from sklearn.metrics import mean_squared_error, accuracy_score
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.tree import DecisionTreeRegressor, DecisionTreeClassifier
@@ -74,6 +75,6 @@ class RandomForest:
 # random forest using a random one third of the features at every split
 rf = RandomForest(n_estimators = 50, max_features = 1 / 3)
 rf.fit(X_train, y_train)
-rf_y_pred = rf.predict(X_test)
+y_pred = rf.predict(X_test)
 print("MSE measures how far predictions deviate from target values. Smaller MSE values are better, and 0.0 means perfect prediction.")
-print('Random Forest MSE',  mean_squared_error(y_test, rf_y_pred))
+print('Random Forest MSE',  mean_squared_error(y_test, y_pred))

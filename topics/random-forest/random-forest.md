@@ -3,6 +3,7 @@
 ## Conceptual understanding
 - Videos
     - This [YouTube video](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ) by Josh Starmer is amazing. It gives you a clear understanding of random forest technique.
+       - If you need to learn how to build a decision tree, see this [YouTube video](https://www.youtube.com/watch?v=_L39rN6gz7Y) by Josh Starmer.
 
 
 ## Projects
@@ -20,6 +21,4 @@ Predict wine quality using random forest. See [project requirements](wine-qualit
 
 <b> Project 2 </b>
 
-Predict iPhone purchase based on age, salary, and gender
-
-&emsp; <i> Source: Thanks to a [Medium article](https://medium.com/analytics-vidhya/machine-learning-project-6-predict-salary-using-random-forest-regression-9a18f97c91e5) by Omair. However, the article is behind paywall. The [dataset](https://github.com/omairaasim/machine_learning/blob/master/project_16_random_forest_classifier/iphone_purchase_records.csv) and [python code](https://github.com/omairaasim/machine_learning/blob/master/project_16_random_forest_classifier/random_forest_classifier.py) are in github. </i>
+Predict iPhone purchase based on age, salary, and gender. See [project requirements](./iphone-purchase/project-iphone-purchase.md).

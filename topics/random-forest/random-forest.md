@@ -10,7 +10,7 @@
 
 <b> Project 1 </b>
 
-Predict wine quality using random forest. See [project requirements](wine-quality.md).
+Predict wine quality using random forest. See [project requirements](project-wine-quality.md).
 
 &emsp; <i>Project [source](https://nbviewer.org/github/ethen8181/machine-learning/blob/master/trees/random_forest.ipynb#Implementation). This is a really good read from top to implementation for a beginner.</i>
 
